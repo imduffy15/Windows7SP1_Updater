@@ -1,0 +1,4 @@
+::Windows Update Core files (Windows Update Agent)
+http://ds.download.windowsupdate.com/v11/3/windowsupdate/selfupdate/WSUS3/x64/Win7SP1/WUClient-SelfUpdate-ActiveX~31bf3856ad364e35~amd64~~7.6.7600.320.cab
+http://ds.download.windowsupdate.com/v11/3/windowsupdate/selfupdate/WSUS3/x64/Win7SP1/WUClient-SelfUpdate-Aux-TopLevel~31bf3856ad364e35~amd64~~7.6.7600.320.cab
+http://ds.download.windowsupdate.com/v11/3/windowsupdate/selfupdate/WSUS3/x64/Win7SP1/WUClient-SelfUpdate-Core-TopLevel~31bf3856ad364e35~amd64~~7.6.7600.320.cab

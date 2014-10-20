@@ -1,0 +1,5 @@
+:::::::::::Manual Installs from here:::::::::::
+
+::7-zip
+http://netcologne.dl.sourceforge.net/project/sevenzip/7-Zip/9.20/7z920-x64.msi
+

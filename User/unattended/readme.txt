@@ -1,0 +1,1 @@
+If you have a Autounattend.xml file, simply place it in this dir

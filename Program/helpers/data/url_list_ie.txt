@@ -1,0 +1,6 @@
+::IE11 updates
+::These need to be installed last (which is why I use a separate directory)
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2014/04/ie11-windows6.1-kb2929437-x64_432b734d1953e784b9ef454dc5c2853e1f384d45.msu
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2014/06/ie11-windows6.1-kb2962872-x64_f3e1baba1ac9cf3c53ae5e12620285a27b61dd99.msu
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2014/08/ie11-windows6.1-kb2976627-x64_29a4a269b3e32e962d9850ebbd6ad3461ce26b9c.msu
+http://download.microsoft.com/download/F/9/D/F9D5FBC0-8CB9-4A57-BB61-226156F7C3CB/IE11-Windows6.1-KB2987107-x64.msu

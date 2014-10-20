@@ -1,0 +1,28 @@
+:::::::::::Manual Installs from here:::::::::::
+
+::KB2533552 must be installed inside the OS. Integration is disabled by Microsoft.
+http://download.windowsupdate.com/msdownload/update/software/crup/2011/05/windows6.1-kb2533552-x64_0ba5ac38d4e1c9588a1e53ad390d23c1e4ecd04d.msu
+
+::Updates that won't integrate due to weird prereqs
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2013/11/windows6.1-kb2830477-x64_21cae4796ac834f66eec9a190815e1e1b8195908.msu
+http://download.microsoft.com/download/F/F/A/FFAA002F-1044-4A39-9134-10CF2CF77CD2/Windows6.1-KB2984981-x64.msu
+http://download.microsoft.com/download/D/A/E/DAEC10E4-CF9A-4F62-9E87-B07BAA2DCEA9/Windows6.1-KB2923545-x64.msu
+http://download.microsoft.com/download/0/6/3/063FD003-8D3D-41D3-8C5C-65F9FC2A66FF/Windows6.1-KB2994023-x64.msu
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2014/02/windows6.1-kb2923545-x64_d263a19b8935efa334ef713cfbfecede3c51a3d1.msu
+http://download.microsoft.com/download/D/0/7/D07A8332-3B08-4919-9683-BFDD4D6F7BDC/Windows6.1-KB2830477-x64.msu
+
+::.NET install + patches
+http://au.download.windowsupdate.com/c/msdownload/update/software/ftpk/2013/11/ndp451-kb2858725-x86-x64-enu_279aa81fde54a5290cd8a5c52c6030f6c5ac6892.exe
+http://au.download.windowsupdate.com/d/msdownload/update/software/secu/2014/04/ndp45-kb2931368-x64_d31c1d741290e739e80935dded951d5114a57834.exe
+http://au.download.windowsupdate.com/c/msdownload/update/software/secu/2013/12/ndp45-kb2898869-x64_8aa5629edd3ad58527c79009081b9dff5e6b4adf.exe
+http://au.download.windowsupdate.com/c/msdownload/update/software/secu/2013/12/ndp45-kb2901126-x64_99e49cb7e11d19a517425409d430a3dad34bd3cf.exe
+http://download.microsoft.com/download/8/F/7/8F7B9814-7D02-4687-87C2-CAC00D14B403/NDP45-KB2894854-v2-x64.exe
+http://download.microsoft.com/download/6/C/F/6CF80DC8-0CE8-460A-98EC-48E8F4951BC4/NDP45-KB2972107-x64.exe
+http://download.microsoft.com/download/9/A/6/9A66A5DE-39AA-4F2C-8B00-06EEA7697EEF/NDP45-KB2972216-x64.exe
+http://download.microsoft.com/download/F/A/A/FAACFBCF-E291-4208-A615-BD1E4768E372/NDP45-KB2979578-v2-x64.exe
+
+::MRT
+http://download.microsoft.com/download/2/C/5/2C563B99-54D9-4D85-A82B-45D3CD2F53CE/Windows-KB890830-x64-V5.17.exe
+
+::Windows Defender
+http://definitionupdates.microsoft.com/download/DefinitionUpdates/VersionedSignatures/AM/1.187.8.0/amd64/mpas-feX64.exe

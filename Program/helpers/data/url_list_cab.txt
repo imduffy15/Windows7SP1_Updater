@@ -1,0 +1,5 @@
+::Windows Activation Tools (WAT) - no MSU, cab only - KB971033
+http://au.download.windowsupdate.com/msdownload/update/software/crup/2010/02/windows6.1-kb971033-x64_84f1af5d69e72730d8e0bc57fa4dd20b74ae3018.cab
+
+::IE11
+http://download.microsoft.com/download/F/E/0/FE06AE77-E636-4F4C-8958-8ED7F7831562/IE11-Windows6.1-KB2841134-x64.cab
