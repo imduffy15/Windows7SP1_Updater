@@ -1,3 +1,6 @@
+start /wait %SystemDrive%\ManualInstalls\Windows6.1-KB2830477-x64.msu /quiet /norestart
+del /F /Q %SystemDrive%\ManualInstalls\Windows6.1-KB2830477-x64.msu
+
 start /wait %SystemDrive%\ManualInstalls\windows6.1-kb2830477-x64_21cae4796ac834f66eec9a190815e1e1b8195908.msu /quiet /norestart
 del /F /Q %SystemDrive%\ManualInstalls\windows6.1-kb2830477-x64_21cae4796ac834f66eec9a190815e1e1b8195908.msu
 
@@ -18,9 +21,6 @@ del /F /Q %SystemDrive%\ManualInstalls\Windows6.1-KB2994023-x64.msu
 
 start /wait %SystemDrive%\ManualInstalls\Windows-KB890830-x64-V5.17.exe /norestart /q
 del /F /Q %SystemDrive%\ManualInstalls\Windows-KB890830-x64-V5.17.exe
-
-start /wait %SystemDrive%\ManualInstalls\Windows6.1-KB2830477-x64.msu /quiet /norestart
-del /F /Q %SystemDrive%\ManualInstalls\Windows6.1-KB2830477-x64.msu
 
 start /wait %SystemDrive%\ManualInstalls\mpas-feX64.exe /q
 del /F /Q %SystemDrive%\ManualInstalls\mpas-feX64.exe
